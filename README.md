@@ -15,14 +15,15 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 Ecuentrame en Gmail como: **diegoedenilsonmartinezlopez007@gmail.com**
+- 📫 
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<p align="left">
+    
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,cpp,dotnet,mysql)](https://skillicons.dev)
 
 </p>
@@ -33,7 +34,6 @@
 <p align="left"> 
     
  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 
 </p>
 
