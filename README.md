@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
-
+<h1 align="center">Hola 👋, Soy Adam Pithenwala</h1>
+<h3 align="center">Estudiante en MITS, Gwalior🌟</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
 - 📫 
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Dato curioso: La comida 🍔 y la música 🎵 son las razones para vivir.
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left" >
     
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,cpp,dotnet,mysql,sql)](https://skillicons.dev)
@@ -23,7 +21,7 @@
 
 <br>
 
-<h3 align="left">Contactame por :</h3>
+<h3 align="left">Contáctame por:</h3>
 <p align="left"> 
     <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -43,7 +41,5 @@
 </p>
 
 <br>
-
-
 
 [Adam-pw](https://github.com/Adam-pw)
