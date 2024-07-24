@@ -3,11 +3,11 @@
 
 <p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
+- 🌱 I am currently learning Web Development and other programming languages.
 
-- 📫
+- 📫 it doesn't matter how much time you have but how you use it. 
 
-- ⚡ Dato curioso: La comida 🍔 y la música 🎵 son las razones para vivir.
+- ⚡ training mind, body and soul.
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
